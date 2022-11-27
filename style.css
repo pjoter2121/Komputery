@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(#fff,rgb(0, 255, 221));
+    margin: 0 20%;
+    }
+    
+    .top {
+    background: #1100ff;
+    border: 17px solid #090083;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 20px 0px;
+    text-align: center;
+    }
+    
+    .menu, .footer {
+    background: #cccccc;
+    border: 3px solid #acacac;
+    padding: 10px;
+    text-align: center;
+    }
+    
+    a {
+    color: #6b1d1d;
+    font-size: 18px;
+    font-weight: bold;
+    }
+    
+    .zdj {
+        margin-top: 10px;
+        width: 550px;
+        height: 500px;
+        margin-left: 300px;
+        border: 10px solid #1100ff;
+        }
+        .essa {
+            margin-top: 10px;
+            width: 550px;
+            height: 400px;
+            margin-left: 300px;
+            border: 10px solid #1100ff;
+            }
